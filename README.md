@@ -8,7 +8,7 @@ This is a minimal working example of my first R Package for STAT545!
 ## Installation
 
 Package installation can be done directly by calling
-`devtools::install_github("YOUR_GITHUB_USERNAME/powers")`
+`devtools::install_github("fatyas/powers")`
 
 ## Example
 
